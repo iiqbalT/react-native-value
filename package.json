@@ -1,0 +1,25 @@
+{
+  "name": "react-native-value",
+  "version": "1.0.0",
+  "description": "Simple manipulate resource to get your fix value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiqbalT/react-native-value.git"
+  },
+  "keywords": [
+    "react-native-value",
+    "getvalue",
+    "default",
+    "value"
+  ],
+  "author": "Iqbal Taufiqurrochman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiqbalT/react-native-value/issues"
+  },
+  "homepage": "https://github.com/iiqbalT/react-native-value#readme"
+}

@@ -1,15 +1,3 @@
-# react-native-value
-Simple manipulate resource to get your fix value.
-
-✨✨ welcome to add your custom function value.
-
-### Install
-```bash
-npm install react-native-value
-```
-
-### Example to use
-```javascript
 import React from 'react';
 import { View, Text } from 'react-native';
 import Value from 'react-native-value';
@@ -34,7 +22,3 @@ export default class App extends React.Component {
         );
     }
 }
-```
-| function  | params  | description  |
-| ------------------------ | ------------------------ | ------------------------ |
-| **`getValue`**  | `source` : your custom object, `keyValue` : your object key, `defaultValue` : value if keyValue not exist or keyValue is null  | find key value of object  |
